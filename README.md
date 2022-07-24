@@ -1,6 +1,6 @@
 # La-Tablita
 TP2 de Skill Factory Node.js
-INTEGRANTES: Mariano , Emiliano Salias
+INTEGRANTES: Mariano Perez, Emiliano Salias
 
 3)
 a) ¿Qué es una base de datos?
